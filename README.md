@@ -1,5 +1,7 @@
-## Aljaz Smrekar
- - Computer Science / Psychology Student at the University of Canterbury   
+<p align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%4110E0O&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Aljaz+Smrekar;Computer+Scientist" width="auto" height="55"/>
+
+  
 ## 📚 Education
 
 - University of Canterbury
@@ -31,5 +33,11 @@ Reach out!
 
 - Email: aljazsmrekar11@gmail.com
 - LinkedIn: https://www.linkedin.com/in/aljaz-smrekar-b24066247/
+ 
+<p align="center">
+  <img width="320" height="auto" src="https://github.com/user-attachments/assets/e0a8b543-305e-44a6-8e92-4e44ad01467c"/>
+</p>
+
+
 
 <!-- for icons https://devicon.dev/ -->
