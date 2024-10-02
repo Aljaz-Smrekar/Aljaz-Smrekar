@@ -1,11 +1,14 @@
 <p align="center">
+   <img width ="100" src="https://github.com/user-attachments/assets/0adf5976-06f6-4bb3-81fa-28aead0c5ddc">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%4110E0O&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Aljaz+Smrekar;Computer+Scientist" width="auto" height="55"/>
+   <img width ="100" src="https://github.com/user-attachments/assets/0adf5976-06f6-4bb3-81fa-28aead0c5ddc">
+</p>
 
-  
+
 ## 📚 Education
 
 - University of Canterbury
-  - Workign towards Postgraduate Diploma in Computer Science 
+  - Working towards a Postgraduate Diploma in Computer Science 
   - Bachelor of Science — Psychology
    
 
@@ -35,9 +38,8 @@ Reach out!
 - LinkedIn: https://www.linkedin.com/in/aljaz-smrekar-b24066247/
  
 <p align="center">
-  <img width="320" height="auto" src="https://github.com/user-attachments/assets/e0a8b543-305e-44a6-8e92-4e44ad01467c"/>
+  <img width="320" height="auto" src="https://github.com/user-attachments/assets/be4804e3-6d51-4b92-832c-9dfcd64c44b8"/>
 </p>
-
 
 
 <!-- for icons https://devicon.dev/ -->
