@@ -19,7 +19,10 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />  
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img align="left" alt="Embedded Systems" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original-wordmark.svg" />          
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/02289a9b-1515-4725-8a11-a5f0b9245f98"/>
+<img align="left" alt="Embedded Systems" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original-wordmark.svg" /> 
+<img align="left" alt="VR" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/e22a4ea0-de5d-4e07-bfc9-636a47dd32d4"/>
+<img align="left" alt="API" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/90fb1183-1354-4695-8978-b4b19195ee53"/>
 <br />
         
 ## 🌟 Projects
