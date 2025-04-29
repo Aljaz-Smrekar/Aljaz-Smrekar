@@ -29,6 +29,7 @@
 
 Projects I've worked on:
   - Developed a VR application for HITLab NZ where the user interacts with ChatGPT's API - (I cannot share the code as it includes some paid scripts and AI agent models from Reallusion)
+  - RIPv2 Router Protocol: https://github.com/Aljaz-Smrekar/RIPv2-Protocol-COSC364-Assignment
   - Proxy Server and Client: https://github.com/Aljaz-Smrekar/Client-Server-Assignment/tree/main
   - A game which is meant to be played against another person through a UCFK4 (UC Fun Kit 4): https://github.com/Aljaz-Smrekar/UCFK4-Game
   - A little fun Valentines Day Website Project: https://github.com/Aljaz-Smrekar/Valentines_Day
