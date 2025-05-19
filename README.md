@@ -28,6 +28,7 @@
 ## 🌟 Projects
 
 Projects I've worked on:
+  - Big Money Racer Game (A+): https://github.com/Aljaz-Smrekar/Big-Money-Race-Game (My favorite project I have worked on so far)
   - Developed a VR application for HITLab NZ where the user interacts with ChatGPT's API - (I cannot share the code as it includes some paid scripts and AI agent models from Reallusion)
   - RIPv2 Router Protocol: https://github.com/Aljaz-Smrekar/RIPv2-Protocol-COSC364-Assignment
   - Proxy Server and Client: https://github.com/Aljaz-Smrekar/Client-Server-Assignment/tree/main
