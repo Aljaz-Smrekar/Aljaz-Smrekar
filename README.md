@@ -35,6 +35,7 @@ Projects I've worked on:
   - Proxy Server and Client: https://github.com/Aljaz-Smrekar/Client-Server-Assignment/tree/main
   - A game which is meant to be played against another person through a UCFK4 (UC Fun Kit 4): https://github.com/Aljaz-Smrekar/UCFK4-Game
   - A little fun Valentines Day Website Project: https://github.com/Aljaz-Smrekar/Valentines_Day
+  - Time Based Collaborative Filtering with Dask for Streamer Recommendations: https://github.com/Aljaz-Smrekar/Time-Based-Collaborative-Filtering-with-Dask-for-Streamer-Recommendations
 
 
 
