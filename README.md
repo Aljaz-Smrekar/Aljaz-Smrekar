@@ -8,7 +8,7 @@
 ## 📚 Education
 
 - University of Canterbury
-  - Working towards a Postgraduate Diploma in Computer Science 
+  - Postgraduate Diploma in Computer Science 
   - Bachelor of Science — Psychology
    
 
