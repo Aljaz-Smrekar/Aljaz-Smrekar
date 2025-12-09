@@ -26,13 +26,14 @@
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Oracle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"/>
 <img align="left" alt="SQLite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg"/>
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/>
 <br /><br />
 
 
 **Languages:** Java, Python, JavaScript, HTML, CSS, C, C#, SQL
 <br />
 **Databases:** SQLite, Oracle  
-**Other Tools & Platforms:** Git, GitHub, Linux, VR
+**Other Tools & Platforms:** Git, GitHub, Linux, VR, React
         
 ## 🌟 Projects
 
