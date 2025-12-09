@@ -8,8 +8,8 @@
 ## 📚 Education
 
 - University of Canterbury
-  - Postgraduate Diploma in Computer Science 
-  - Bachelor of Science — Psychology
+  - Graduate Diploma in Computer Science (lvl 7)
+  - Bachelor of Science — Psychology (lvl 7)
    
 
 ## 🛠️ Skills and Tech
