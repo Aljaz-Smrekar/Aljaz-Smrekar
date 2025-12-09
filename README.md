@@ -23,13 +23,28 @@
 <img align="left" alt="Embedded Systems" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original-wordmark.svg" /> 
 <img align="left" alt="VR" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/e22a4ea0-de5d-4e07-bfc9-636a47dd32d4"/>
 <img align="left" alt="API" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/90fb1183-1354-4695-8978-b4b19195ee53"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Oracle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"/>
+<img align="left" alt="SQLite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg"/>
+<br /><br />
+
+
+**Languages:** Java, Python, JavaScript, HTML, CSS, C, C#, SQL
 <br />
+**Databases:** SQLite, Oracle  
+**Other Tools & Platforms:** Git, GitHub, Linux, VR
         
 ## 🌟 Projects
 
 Projects I've worked on:
   - Big Money Racer Game (A+): https://github.com/Aljaz-Smrekar/Big-Money-Race-Game (My favorite project I have worked on so far)
     Big Money Racer Game Video Demo - https://www.youtube.com/watch?v=xt3E5zvBL4w&t=25s
+  - Discord Productivity and Utility Bot: https://github.com/Aljaz-Smrekar/Discord-Productivity-Utility-Bot
+   Built with Python, featuring SQLite database integration for task management, reminders, and moderation. Integrated multiple external APIs including:
+   Epic Games API – track free game promotions in real-time.
+   yFinance API – fetch live stock data.
+   Weather API – provide current weather updates to users.
+
   - Developed a VR application for HITLab NZ where the user interacts with ChatGPT's API - (I cannot share the code as it includes some paid scripts and AI agent models from Reallusion)
   - RIPv2 Router Protocol: https://github.com/Aljaz-Smrekar/RIPv2-Protocol-COSC364-Assignment
   - Proxy Server and Client: https://github.com/Aljaz-Smrekar/Client-Server-Assignment/tree/main
