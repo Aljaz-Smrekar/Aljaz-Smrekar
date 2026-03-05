@@ -40,6 +40,15 @@
 Projects I've worked on:
   - Big Money Racer Game (A+): https://github.com/Aljaz-Smrekar/Big-Money-Race-Game (My favorite project I have worked on so far)
     Big Money Racer Game Video Demo - https://www.youtube.com/watch?v=xt3E5zvBL4w&t=25s
+    - Developed a JavaFX racing management game in Java following a Model–Service–View architecture, separating UI, business logic, and game state for maintainability.
+    - Implemented a centralised GameService Singleton to manage persistent game state across scenes, addressing JavaFX controller lifecycle limitations.
+    - Designed extensible domain models for cars, parts, racers, and NPCs using interfaces and enums (e.g., Racer, Purchasable, PartType) to support polymorphism and scalable game logic.
+    - Built scene navigation utilities (SceneManager, SceneSwitcher, PopupManager) to centralise UI transitions and reduce controller coupling.
+    - Implemented dynamic stat calculation for cars using derived getters rather than stored values, ensuring consistency between base stats and installed parts.
+    - Structured game content using static registries (e.g., AllCars, AllNPCs) to avoid duplication and allow centralised management of game assets.
+    - Developed JUnit unit tests for service-layer logic, validating gameplay mechanics, purchasing flows, and stat calculations to improve reliability and support future automated testing.
+    - Collaborated using Git branching, pull requests, and code reviews while developing the project with a teammate.
+
   - Discord Productivity and Utility Bot: https://github.com/Aljaz-Smrekar/Discord-Productivity-Utility-Bot
    Built with Python, featuring SQLite database integration for task management, reminders, and moderation. Integrated multiple external APIs including:
    Epic Games API – track free game promotions in real-time.
